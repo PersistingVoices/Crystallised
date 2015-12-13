@@ -1,0 +1,52 @@
+
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+- ** new - div for images
+- Grid
+- Base Styles
+- Typography
+- Links
+- Buttons
+- Forms
+- Lists
+- Code
+- Tables
+- Spacing
+- Utilities
+- Clearing
+- Media Queries
+*/
+
+/*@import "all_settings.css"*/
+
+/* Header
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+div.header {
+    margin: 30px;
+    padding-bottom: 10px;
+    border: 0px solid #0000ff;
+    height: 100px;
+    width: 940px;
+    text-align: center;
+}
+
+/* Band
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+div.h-band {
+    margin-top: 10%;
+    /*padding-left: 0px;*/
+    /*border: 0px solid #0000ff;*/
+    /*height: 1%;*/
+    /*width: 0px;*/
+    text-align: center;
+    background-color: white;
+}
+
+div.v-band {
+    margin-left: 255px;
+    padding: 1%;
+    border: 0px solid #0000ff;
+    height: 900px;
+    width: 430px;
+    text-align: center;
+}
