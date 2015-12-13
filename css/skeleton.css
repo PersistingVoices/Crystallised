@@ -7,6 +7,9 @@
 * 12/29/2014
 */
 
+/*header colour: rgb(130, 144, 0)*/
+/*container colour: rgb(30, 144, 255)*/
+
 
 /* Table of contents
 ––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -26,14 +29,13 @@
 - Media Queries
 */
 
-
 /*@import "all_settings.css"*/
 
 /* Header
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 div.header {
     background-color: rgb(130, 144, 0);
-    /*background-image: url("images/sky.png");*/
+    background-image: url("images/sky.png");
     margin: 1%;
     padding-bottom: 1%px;
     border: 0px solid #0000ff;
@@ -146,7 +148,12 @@ div.desc {
 
   .one.column,
   .one.columns                    { width: 4.66666666667%; }
-  .two.columns                    { width: 16%; padding-left: 3.0% }
+
+  .two.columns1                   { width: 16%; padding-left: 3.0%; background-color: rgb(10, 100, 155)}
+  .two.columns2                   { width: 16%; padding-left: 3.0%; background-color: rgb(20, 120, 100)}
+  .two.columns3                   { width: 16%; padding-left: 3.0%; background-color: rgb(60, 130, 210) }
+  .two.columns4                   { width: 16%; padding-left: 3.0%; background-color: rgb(40, 180, 200) }
+
   .three.columns                  { width: 23%;            }
   .four.columns                   { width: 30.6666666667%; }
   .five.columns                   { width: 39.3333333333%; }
