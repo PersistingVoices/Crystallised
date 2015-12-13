@@ -32,8 +32,8 @@
 /* Header
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 div.header {
-    /*background-color: transparent;*/
-    background-image: url("images/sky.png");
+    background-color: transparent;
+    /*background-image: url("images/sky.png");*/
     margin: 1%;
     padding-bottom: 1%px;
     border: 0px solid #0000ff;
