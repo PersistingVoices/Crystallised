@@ -2116,6 +2116,7 @@ img.responsive-img, video.responsive-video {
   height: 500px; }
 
 .parallax {
+  resize: both;
   position: absolute;
   top: 0;
   left: 0;
