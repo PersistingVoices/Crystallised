@@ -2010,7 +2010,6 @@ ul {
 
 .z-depth-1-half, .btn:hover, .btn-large:hover, .btn-floating:hover {
   box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15); }
-
 .z-depth-2 {
   box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
 
@@ -2111,13 +2110,13 @@ img.responsive-img, video.responsive-video {
     color: #fff; }
 
 .parallax-container {
-  position: static;
+  position: relative;
   overflow: hidden;
-  height: 500px; }
+  height: 400px; }
 
 .parallax {
-  resize: both;
-  position: absolute;
+
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
