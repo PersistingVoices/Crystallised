@@ -36,10 +36,10 @@
 div.header {
     background-color: rgb(130, 144, 0);
     background-image: url("images/sky.png");
-    margin: 1%;
+    margin: 0%;
     padding-bottom: 1%px;
     border: 0px solid #0000ff;
-    height: 1%;
+    height: 0%;
     /*width: 1%;*/
     text-align: center;
 }
@@ -149,7 +149,7 @@ div.desc {
   .one.column,
   .one.columns                    { width: 4.66666666667%; }
 
-  .two.columns                    { width: 16%; padding-left: 0%; background-color: rgb(10, 100, 155)}
+  .two.columns                    { width:16%; background-color: rgb(10, 100, 155)}
 
   .three.columns                  { width: 23%;            }
   .four.columns                   { width: 30.6666666667%; }
