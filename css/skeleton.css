@@ -130,6 +130,7 @@ div.desc {
 /* For devices larger than 550px */
 @media (min-width: 550px) {
   .container {
+    background-color: rgb(30, 144, 255);
     width: 80%; }
   .column,
   .columns {
