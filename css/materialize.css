@@ -2111,7 +2111,7 @@ img.responsive-img, video.responsive-video {
     color: #fff; }
 
 .parallax-container {
-  position: relative;
+  position: static;
   overflow: hidden;
   height: 500px; }
 
