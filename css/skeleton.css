@@ -149,10 +149,10 @@ div.desc {
   .one.column,
   .one.columns                    { width: 4.66666666667%; }
 
-  .two.columns1                   { width: 16%; padding-left: 3.0%; background-color: rgb(10, 100, 155)}
-  .two.columns2                   { width: 16%; padding-left: 3.0%; background-color: rgb(20, 120, 100)}
-  .two.columns3                   { width: 16%; padding-left: 3.0%; background-color: rgb(60, 130, 210) }
-  .two.columns4                   { width: 16%; padding-left: 3.0%; background-color: rgb(40, 180, 200) }
+  .two.columns1                   { width: 10%; padding-left: 3.0%; background-color: rgb(10, 100, 155)}
+  .two.columns2                   { width: 10%; padding-left: 3.0%; background-color: rgb(20, 120, 100)}
+  .two.columns3                   { width: 10%; padding-left: 3.0%; background-color: rgb(60, 130, 210) }
+  .two.columns4                   { width: 10%; padding-left: 3.0%; background-color: rgb(40, 180, 200) }
 
   .three.columns                  { width: 23%;            }
   .four.columns                   { width: 30.6666666667%; }
