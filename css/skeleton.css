@@ -134,7 +134,7 @@ div.desc {
 @media (min-width: 550px) {
   .container {
     background-color: rgb(30, 144, 255);
-    background-image: url("images/sky.png");
+    background-image: src = "images/sky.png";
     width: 80%; }
   .column,
   .columns {
