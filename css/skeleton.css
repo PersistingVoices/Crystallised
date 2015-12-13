@@ -32,7 +32,7 @@
 /* Header
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 div.header {
-    background-color: #fff; 
+    background-color: #fff;
     margin: 1%;
     padding-bottom: 1%px;
     border: 0px solid #0000ff;
@@ -53,6 +53,7 @@ div.h-band {
     background-color: white;
 }
 
+/*
 div.v-band {
     margin-left: 255px;
     padding: 1%;
@@ -60,7 +61,7 @@ div.v-band {
     height: 900px;
     width: 430px;
     text-align: center;
-}
+}*/
 
 /* Button-Box
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -132,6 +133,7 @@ div.desc {
 @media (min-width: 550px) {
   .container {
     background-color: rgb(30, 144, 255);
+    /*background-image: image();*/
     width: 80%; }
   .column,
   .columns {
