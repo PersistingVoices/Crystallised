@@ -149,7 +149,7 @@ div.desc {
   .one.column,
   .one.columns                    { width: 4.66666666667%; }
 
-  .two.columns                   { width: 16%; padding-left: 3.0%; background-color: rgb(10, 100, 155)}
+  .two.columns                    { width: 15%; padding-left: 3.0%; background-color: rgb(10, 100, 155)}
 
   .three.columns                  { width: 23%;            }
   .four.columns                   { width: 30.6666666667%; }
